@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reserva>
+<reserva>
+<nombre>Gaizka</nombre>
+<apellido>Galdeano</apellido>
+<telefono>688630192</telefono>
+<direccion>Donostia</direccion>
+<email>ga.galdeano@aulanz.net</email>
+<marca>Mercedes</marca>
+<modelo>Clase C</modelo>
+<fecha_inicio>2025-02-06</fecha_inicio>
+<fecha_fin>2026-02-06</fecha_fin>
+<metodo_pago>Efectivo</metodo_pago>
+</reserva>
+<reserva>
+<nombre>José María</nombre>
+<apellido>López</apellido>
+<telefono>769432864</telefono>
+<direccion>Madrid</direccion>
+<email>joseml@gmail.com</email>
+<marca>Ford</marca>
+<modelo>Escape</modelo>
+<fecha_inicio>2025-02-06</fecha_inicio>
+<fecha_fin>2026-02-06</fecha_fin>
+<metodo_pago>Efectivo</metodo_pago>
+</reserva>
+</reserva>
